@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>树形菜单</title>
+	</head>
+	<body>
+		<h3><b>我的电脑文件列表</b></h3>
+		<ul>
+			<li>本地磁盘C</li>
+			&nbsp;&nbsp;<li>我的电脑</li>
+		</ul>
+		
+	</body>
+</html>
